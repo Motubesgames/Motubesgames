@@ -8,7 +8,7 @@
 - 💬 Ask me about ...
   Anything basic or intermediate level in front end or python
 - 📫 How to reach me: ...
-  My github and email:m88280350@gmail.com
+  My github and email: m88280350@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually in grade 9
 <!--
