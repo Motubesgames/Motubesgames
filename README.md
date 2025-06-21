@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-**Motubesgames/Motubesgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
   I'm currentrly working on improving my coding skills
@@ -13,6 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm actually in grade 9
 <!--
+**Motubesgames/Motubesgames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Some ideas to get me started
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
